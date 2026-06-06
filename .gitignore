@@ -1,0 +1,11 @@
+# JUCE build folders
+Builds/
+JuceLibraryCode/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# macOS files
+.DS_Store
